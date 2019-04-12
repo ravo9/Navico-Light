@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Navico Light</string>
+
+    <string name="loading_contributors">Loading contributors...</string>
+    <string name="data_couldnt_be_fetched">Data couldn\'t be fetched.</string>
+</resources>
